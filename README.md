@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cristian Castro Oliva</h1>
-<h3 align="center">I am currently a Junior studying Computer Science at CalPoly SLO</h3>
+<h1 align="center">Hi, I'm Cristian Castro Oliva</h1>
+<h3 align="center">I am currently a Junior studying Computer Science at Cal Poly San Luis Obispo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=castro19&label=Profile%20views&color=0e75b6&style=flat" alt="castro19" /> </p>
 
@@ -48,7 +48,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castro19&show_icons=true&locale=en&layout=compact" alt="castro19" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=castro19&show_icons=true&locale=en" alt="castro19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=castro19&" alt="castro19" /></p>
