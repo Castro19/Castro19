@@ -1,17 +1,13 @@
 <h1 align="center">Hi, I'm Cristian Castro Oliva</h1>
-<h3 align="center">I am currently a Junior studying Computer Science at Cal Poly San Luis Obispo</h3>
+<h3 align="center">I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=castro19&label=Profile%20views&color=0e75b6&style=flat" alt="castro19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castro19" alt="castro19" /></a> </p>
 
-- I am interested in **FullStack Development, mainly working on the Front-end and handling APIs**
+- I am interested in **FullStack Development, specializing on Front-end**
 
-- 🔭 Project 1 I am currently working on: [CCC Transfer helper](https://github.com/Castro19/ccc-transfer-helper)
-
-- 🔭 Project 2 I am currently working on: [PolyGPT](https://github.com/Castro19/LAEP-GPT)
-
-- 💬 Ask me about **JavaScript, React, Python, and Databases**
+- 🔭 I am currently working on: [PolyLink](https://github.com/Castro19/LAEP-GPT)
 
 - 📫 How to reach me **cmcastro559@gmail.com**
 
